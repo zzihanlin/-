@@ -1,0 +1,27 @@
+Celltype	Marker	Source
+Malignant	KRT19	
+Malignant	KRT8	
+B_cells	CD79A	
+B_cells	MS4A1	
+cDC1	CLEC9A	
+cDC1	IDO1	
+cDC2	CD1C	
+cDC2	FCER1A	
+pDC	LILRA4	
+pDC	PLD4	
+Cholangiocytes	FXYD2	
+Cholangiocytes	TM4SF4	
+Endothelial	FCN3	
+Endothelial	CLDN5	
+Fibroblasts	ACTA2	
+Fibroblasts	COL1A1	
+Hepatocytes	ALB	
+Hepatocytes	FABP1	
+NK	XCL2	
+NK	CD7	
+Macrophages/Monocyte	C1QA		
+Macrophages/Monocyte	S100A8		
+Plasma	MZB1	
+Plasma	IGHG1		
+T_cells	CD3D	
+T_cells	CD3E
